@@ -1,0 +1,1 @@
+export const login_credential : string = "OH-Login-With-Credentials"
